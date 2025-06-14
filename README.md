@@ -73,6 +73,8 @@ _Full version of the data dictionary located in `/notes/data_dictionary.md`_
 - [Missouri Senate Bill 514 (2018-2019)](https://www.senate.mo.gov/18info/BTS_Web/Bill.aspx?SessionType=R&BillID=71043894)
 - [HRSA State Action Plans](https://mchb.tvisdata.hrsa.gov/StateActionPlans/StateOverview/MO)
 - [AIM Program (Alliance for Innovation on Maternal Health)](https://saferbirth.org/)
+- [Governor Mike Kehoe Bio](https://governor.mo.gov/about-governor)
+- [Director Sarah Willson Bio](https://health.mo.gov/about/director.php)
 
 _Full version of sources located in `/notes/sources.md`_
 
