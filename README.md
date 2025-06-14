@@ -99,7 +99,7 @@ _Full version of sources located in `./sources.md`_
 ## 📬 Contact & Connect
 
 - **Email:** [aleyktaylor@gmail.com](mailto:aleyktaylor@gmail.com)  
-- **LinkedIn:** [Aleynika](https://www.linkedin.com/in/aleynika)
+- **LinkedIn:** [Connect](https://www.linkedin.com/in/aleynika)
 - **Medium:** [Read My Latest Post](https://medium.com/@aleyktaylor)
 - **Substack:** [Read My Latest Post](https://substack.com/@ecc317?r=1sv28o&utm_campaign=profile&utm_medium=profile-page)
 - **Resume:** [View My Resume](https://earnbetter.com/app/share/resume/01JQ4MC6J22DX9X4K3CKQFXVZE/)
