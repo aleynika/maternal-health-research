@@ -30,7 +30,6 @@ maternal-health-research
 │   └── processed  
 │       └── (cleaned/analyzed versions for future use)  
 ├── notes  
-│   ├── data_dictionary.md  
 │   └── sources.md  
 └── LICENSE
 
