@@ -61,8 +61,6 @@ maternal-health-research
 | laws_funding.csv | Relevant legislation & associated maternal health funding | State, Law, Year Enacted, Ending Year, Funding, Amount, Source |
 | policy_actors.csv | Current key policymakers and health officials | State, Name, Title, Career, Education, Term Start, Official Website, Organization, Role, Contact, Source |
 
-_Full version of the data dictionary located in `/notes/data_dictionary.md`_
-
 ---
 
 ## 📚 Initial Sources
@@ -76,7 +74,7 @@ _Full version of the data dictionary located in `/notes/data_dictionary.md`_
 - [Governor Mike Kehoe Bio](https://governor.mo.gov/about-governor)
 - [Director Sarah Willson Bio](https://health.mo.gov/about/director.php)
 
-_Full version of sources located in `/notes/sources.md`_
+_Full version of sources located in `./sources.md`_
 
 ---
 
