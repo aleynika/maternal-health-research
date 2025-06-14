@@ -73,7 +73,7 @@ maternal-health-research
 - [Governor Mike Kehoe Bio](https://governor.mo.gov/about-governor)
 - [Director Sarah Willson Bio](https://health.mo.gov/about/director.php)
 
-_Full version of sources located in `./sources.md`_
+_Full version of sources located in `maternal-health-research/notes/sources.md`_
 
 ---
 
